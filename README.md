@@ -4,6 +4,7 @@
 * [DownExtZip](https://github.com/FoxRefire/DownExtZip)
 * [FoxyPGP](https://github.com/FoxRefire/FoxyPGP)
 * [DeepL-zhtw](https://github.com/FoxRefire/DeepL-zhtw) (Deprecated)
+* [no-dot-hide](https://github.com/FoxRefire/no-dot-hide)
 
 ## Skills
 <div>
