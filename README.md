@@ -3,6 +3,7 @@
 * [WVG](https://github.com/FoxRefire/wvg)
 * [DownExtZip](https://github.com/FoxRefire/DownExtZip)
 * [FoxyPGP](https://github.com/FoxRefire/FoxyPGP)
+* [Librezam](https://github.com/FoxRefire/Librezam)
 * [DeepL-zhtw](https://github.com/FoxRefire/DeepL-zhtw) (Deprecated)
 * [no-dot-hide](https://github.com/FoxRefire/no-dot-hide)
 
