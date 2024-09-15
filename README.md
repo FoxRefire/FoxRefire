@@ -4,6 +4,7 @@
 * ### [DownExtZip](https://github.com/FoxRefire/DownExtZip)
 * ### [FoxyPGP](https://github.com/FoxRefire/FoxyPGP)
 * ### [Librezam](https://github.com/FoxRefire/Librezam)
+* ### [GithubQuickActions](https://github.com/FoxRefire/GithubQuickActions)
 
 ## Skills
 <div>
