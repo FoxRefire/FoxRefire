@@ -1,10 +1,12 @@
-## My main projects
+## My focused projects
 * ### [ByeByeEXIF](https://github.com/FoxRefire/ByeByeEXIF)
 * ### [WVG](https://github.com/FoxRefire/wvg)
 * ### [DownExtZip](https://github.com/FoxRefire/DownExtZip)
 * ### [FoxyPGP](https://github.com/FoxRefire/FoxyPGP)
 * ### [Librezam](https://github.com/FoxRefire/Librezam)
 * ### [GithubQuickActions](https://github.com/FoxRefire/GithubQuickActions)
+* ### [YTMiniWatchLater](https://github.com/FoxRefire/YTMiniWatchLater)
+* ### [https://github.com/FoxRefire/ChromeXPIPorter]
 
 ## Skills
 <div>
