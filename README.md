@@ -6,7 +6,7 @@
 * ### [Librezam](https://github.com/FoxRefire/Librezam)
 * ### [GithubQuickActions](https://github.com/FoxRefire/GithubQuickActions)
 * ### [YTMiniWatchLater](https://github.com/FoxRefire/YTMiniWatchLater)
-* ### [https://github.com/FoxRefire/ChromeXPIPorter]
+* ### [ChromeXPIPorter](https://github.com/FoxRefire/ChromeXPIPorter)
 
 ## Skills
 <div>
