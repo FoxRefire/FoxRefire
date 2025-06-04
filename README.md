@@ -7,6 +7,7 @@
 * ### [GithubQuickActions](https://github.com/FoxRefire/GithubQuickActions)
 * ### [YTMiniWatchLater](https://github.com/FoxRefire/YTMiniWatchLater)
 * ### [ChromeXPIPorter](https://github.com/FoxRefire/ChromeXPIPorter)
+* ### [NRDBlocker](https://github.com/FoxRefire/NRDBlocker)
 
 ## Skills
 <div>
