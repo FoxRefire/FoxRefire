@@ -8,6 +8,8 @@
 * ### [YTMiniWatchLater](https://github.com/FoxRefire/YTMiniWatchLater)
 * ### [CRX Installer](https://github.com/FoxRefire/ChromeXPIPorter)
 * ### [NRDBlocker](https://github.com/FoxRefire/NRDBlocker)
+* ### [LINE firefox port](https://github.com/FoxRefire/line-firefox)
+* ### [DanmakuPIP](https://github.com/FoxRefire/DanmakuPIP)
 
 ## Skills
 <div>
