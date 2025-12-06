@@ -24,4 +24,4 @@
 
 ## Links
 [![Firefox](https://extensionworkshop.com/assets/img/documentation/publish/get-the-addon-178x60px.dad84b42.png)](https://addons.mozilla.org/firefox/user/18260815/)
-[![Buy Me a Coffee](https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png)](https://buymeacoffee.com/foxrefire)
+<a href="https://buymeacoffee.com/foxrefire"><img src="https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png" width="200"></a>
